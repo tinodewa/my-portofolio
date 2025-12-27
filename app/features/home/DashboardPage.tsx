@@ -164,7 +164,7 @@ const PORTFOLIO_DATA = {
       id: 2,
       title: "Kiosk-Based Service Application",
       description: "A specialized hardware-software solution for public-facing terminals. Features high-performance image capture using Camera2/CameraX, touch-screen navigation, background task scheduling with WorkManager, and automated service workflows.",
-      techStack: ["Android Studio", "Kotlin", "Firebase", "CameraX", "SQLite"],
+      techStack: ["Android Studio", "Kotlin", "Firebase", "SQLite", "Postman", "WorkManager"],
       iconBg: "/kiosk.png"
     },
     {
